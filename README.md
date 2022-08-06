@@ -2,7 +2,7 @@
 
 项目源 https://gitee.com/ja-netfilter/ja-netfilter
 
-releases page为原作者插件、JetBrains Toolbox App、jetbra.zip整合包，后续更新
+[releases page](https://github.com/JackFranklinTos/ja-netfilter/releases/tag/ja-netfilter) 为原作者插件、JetBrains Toolbox App、jetbra.zip整合包，后续更新
 
 ### package 0.1.0 使用说明
 - 下载 `jetbrains-toolbox-1.25.12627.exe` 、 `ja-netfilter-2022.2.0.zip` 、 `jetbra.zip`
