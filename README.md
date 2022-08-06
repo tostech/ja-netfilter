@@ -16,6 +16,6 @@
 - 就将 `javaagent:/absolute/path/to/ja-netfilter.jar` 修改成 `javaagent:D:\Programs\Toolbox\ja-netfilter\ja-netfilter.jar`
 - 特别注意的一点是，复制的 `/ja-netfilter.jar` 中的 `/` 要修改成 `\`
 ### 激活码激活
-- 进入网站： https://3.jetbra.in/
+- 进入网站 https://3.jetbra.in/
 - 选择在线的hostname进入
 - 选择自己需要激活的产品复制激活码激活
